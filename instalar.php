@@ -3,7 +3,7 @@
 Plugin Name: birosquinha
 Plugin URI: http://leobaiano.com/
 Description: Plugin para criar e gerenciar uma loja virtual no WordPress
-Version: 1.0
+Version: beta
 Author: Leo Baiano
 Author URI: http://leobaiano.com/
 */
